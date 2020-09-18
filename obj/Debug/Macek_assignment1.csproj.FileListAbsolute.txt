@@ -1,0 +1,11 @@
+/Users/viki/Desktop/VŠ/CBS/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/bin/Debug/Macek_assignment1.exe
+/Users/viki/Desktop/VŠ/CBS/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/bin/Debug/Macek_assignment1.pdb
+/Users/viki/Desktop/VŠ/CBS/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/obj/Debug/Macek_assignment1.csproj.CoreCompileInputs.cache
+/Users/viki/Desktop/VŠ/CBS/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/obj/Debug/Macek_assignment1.exe
+/Users/viki/Desktop/VŠ/CBS/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/obj/Debug/Macek_assignment1.pdb
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/bin/Debug/Macek_assignment1.exe
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/bin/Debug/Macek_assignment1.pdb
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/obj/Debug/Macek_assignment1.csprojAssemblyReference.cache
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/obj/Debug/Macek_assignment1.csproj.CoreCompileInputs.cache
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/obj/Debug/Macek_assignment1.exe
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/Macek_assignment1/obj/Debug/Macek_assignment1.pdb
